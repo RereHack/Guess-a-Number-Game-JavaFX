@@ -1,0 +1,14 @@
+/* 
+    Created on : Jun 28, 2022, 5:58:19 PM
+    Author     : Reema
+*/
+
+#checkbtn{
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(#61a2b1,#2A5058);
+    -fx-font-weight:bold;
+    -fx-font-family:"Arial Narrow";
+}
+.root{
+    -fx-background-image:url("AddSubNum1.jpg");
+}
